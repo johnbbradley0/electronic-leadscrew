@@ -1,0 +1,230 @@
+TPI name: i160  TPI number: 0
+Ratio after 1 million pulses: 0.029297
+Best case ratio: 0.029296875
+Ratio Error: 1.25e-07
+
+TPI name: i120  TPI number: 1
+Ratio after 1 million pulses: 0.039062999
+Best case ratio: 0.0390625
+Ratio Error: 5e-07
+
+TPI name: i90  TPI number: 2
+Ratio after 1 million pulses: 0.052083001
+Best case ratio: 0.052083332
+Ratio Error: -3.3209156e-07
+
+TPI name: i80  TPI number: 3
+Ratio after 1 million pulses: 0.058594
+Best case ratio: 0.05859375
+Ratio Error: 2.5e-07
+
+TPI name: i72  TPI number: 4
+Ratio after 1 million pulses: 0.065104
+Best case ratio: 0.065104164
+Ratio Error: -1.6418313e-07
+
+TPI name: i64  TPI number: 5
+Ratio after 1 million pulses: 0.073242001
+Best case ratio: 0.073242188
+Ratio Error: -1.8750001e-07
+
+TPI name: i56  TPI number: 6
+Ratio after 1 million pulses: 0.083705001
+Best case ratio: 0.083705358
+Ratio Error: -3.5820722e-07
+
+TPI name: i48  TPI number: 7
+Ratio after 1 million pulses: 0.097655997
+Best case ratio: 0.09765625
+Ratio Error: -2.5e-07
+
+TPI name: i44  TPI number: 8
+Ratio after 1 million pulses: 0.106534
+Best case ratio: 0.10653409
+Ratio Error: -9.3618389e-08
+
+TPI name: i40  TPI number: 9
+Ratio after 1 million pulses: 0.117188
+Best case ratio: 0.1171875
+Ratio Error: 5e-07
+
+TPI name: i36  TPI number: 10
+Ratio after 1 million pulses: 0.130208
+Best case ratio: 0.13020833
+Ratio Error: -3.2836627e-07
+
+TPI name: i32  TPI number: 11
+Ratio after 1 million pulses: 0.146485
+Best case ratio: 0.14648438
+Ratio Error: 6.2499998e-07
+
+TPI name: i28  TPI number: 12
+Ratio after 1 million pulses: 0.167411
+Best case ratio: 0.16741072
+Ratio Error: 2.8358554e-07
+
+TPI name: i24  TPI number: 13
+Ratio after 1 million pulses: 0.19531301
+Best case ratio: 0.1953125
+Ratio Error: 5e-07
+
+TPI name: i20  TPI number: 14
+Ratio after 1 million pulses: 0.234375
+Best case ratio: 0.234375
+Ratio Error: 0
+
+TPI name: i18  TPI number: 15
+Ratio after 1 million pulses: 0.26041701
+Best case ratio: 0.26041666
+Ratio Error: 3.4326743e-07
+
+TPI name: i16  TPI number: 16
+Ratio after 1 million pulses: 0.29296899
+Best case ratio: 0.29296875
+Ratio Error: 2.5e-07
+
+TPI name: i14  TPI number: 17
+Ratio after 1 million pulses: 0.334822
+Best case ratio: 0.33482143
+Ratio Error: 5.6717107e-07
+
+TPI name: i13  TPI number: 18
+Ratio after 1 million pulses: 0.36057699
+Best case ratio: 0.36057693
+Ratio Error: 7.2338104e-08
+
+TPI name: i12  TPI number: 19
+Ratio after 1 million pulses: 0.390625
+Best case ratio: 0.390625
+Ratio Error: 0
+
+TPI name: i11  TPI number: 20
+Ratio after 1 million pulses: 0.426137
+Best case ratio: 0.42613637
+Ratio Error: 6.2552641e-07
+
+TPI name: i10  TPI number: 21
+Ratio after 1 million pulses: 0.46875
+Best case ratio: 0.46875
+Ratio Error: 0
+
+TPI name: i9  TPI number: 22
+Ratio after 1 million pulses: 0.52083403
+Best case ratio: 0.52083331
+Ratio Error: 6.8653486e-07
+
+TPI name: i7  TPI number: 23
+Ratio after 1 million pulses: 0.669644
+Best case ratio: 0.66964287
+Ratio Error: 1.1343421e-06
+
+TPI name: i6  TPI number: 24
+Ratio after 1 million pulses: 0.78125101
+Best case ratio: 0.78125
+Ratio Error: 1e-06
+
+TPI name: m725  TPI number: 25
+Ratio after 1 million pulses: 0.064591996
+Best case ratio: 0.064591564
+Ratio Error: 4.3576193e-07
+
+TPI name: m635  TPI number: 26
+Ratio after 1 million pulses: 0.073818997
+Best case ratio: 0.0738189
+Ratio Error: 1.003089e-07
+
+TPI name: m564  TPI number: 27
+Ratio after 1 million pulses: 0.083045997
+Best case ratio: 0.083046325
+Ratio Error: -3.2455111e-07
+
+TPI name: m508  TPI number: 28
+Ratio after 1 million pulses: 0.092274003
+Best case ratio: 0.092273623
+Ratio Error: 3.7724877e-07
+
+TPI name: m423  TPI number: 29
+Ratio after 1 million pulses: 0.110729
+Best case ratio: 0.11072844
+Ratio Error: 5.6478166e-07
+
+TPI name: m362  TPI number: 30
+Ratio after 1 million pulses: 0.12918399
+Best case ratio: 0.12918313
+Ratio Error: 8.7152387e-07
+
+TPI name: m338  TPI number: 31
+Ratio after 1 million pulses: 0.13841
+Best case ratio: 0.1384103
+Ratio Error: -3.0001641e-07
+
+TPI name: m317  TPI number: 32
+Ratio after 1 million pulses: 0.14763799
+Best case ratio: 0.1476378
+Ratio Error: 2.0061779e-07
+
+TPI name: m282  TPI number: 33
+Ratio after 1 million pulses: 0.16609301
+Best case ratio: 0.16609265
+Ratio Error: 3.5089778e-07
+
+TPI name: m254  TPI number: 34
+Ratio after 1 million pulses: 0.18454701
+Best case ratio: 0.18454725
+Ratio Error: -2.4550246e-07
+
+TPI name: m203  TPI number: 35
+Ratio after 1 million pulses: 0.230684
+Best case ratio: 0.23068406
+Ratio Error: -5.687809e-08
+
+TPI name: m169  TPI number: 36
+Ratio after 1 million pulses: 0.276822
+Best case ratio: 0.2768214
+Ratio Error: 5.9530447e-07
+
+TPI name: m145  TPI number: 37
+Ratio after 1 million pulses: 0.32295999
+Best case ratio: 0.32295737
+Ratio Error: 2.633295e-06
+
+TPI name: m127  TPI number: 38
+Ratio after 1 million pulses: 0.369095
+Best case ratio: 0.36909449
+Ratio Error: 5.0899507e-07
+
+TPI name: m101  TPI number: 39
+Ratio after 1 million pulses: 0.46136799
+Best case ratio: 0.46136811
+Ratio Error: -1.1375618e-07
+
+TPI name: m84  TPI number: 40
+Ratio after 1 million pulses: 0.55364001
+Best case ratio: 0.55363953
+Ratio Error: 4.6886444e-07
+
+TPI name: m72  TPI number: 41
+Ratio after 1 million pulses: 0.64592201
+Best case ratio: 0.64591914
+Ratio Error: 2.8558463e-06
+
+TPI name: m63  TPI number: 42
+Ratio after 1 million pulses: 0.73819
+Best case ratio: 0.73818898
+Ratio Error: 1.0179901e-06
+
+TPI name: m56  TPI number: 43
+Ratio after 1 million pulses: 0.83047003
+Best case ratio: 0.83046913
+Ratio Error: 8.6853026e-07
+
+TPI name: m50  TPI number: 44
+Ratio after 1 million pulses: 0.922737
+Best case ratio: 0.92273623
+Ratio Error: 7.7248762e-07
+
+TPI name: m42  TPI number: 45
+Ratio after 1 million pulses: 1.1075
+Best case ratio: 1.1072922
+Ratio Error: 0.00020782471
+
